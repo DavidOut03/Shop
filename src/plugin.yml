@@ -1,0 +1,12 @@
+name: ItemShop
+main: me.shop.Core.Main
+version: 1.0
+author: Snapje
+description: A itemshop plugin.
+commands:
+  Shop:
+    description: The shop command.
+  ItemShop:
+    description: The plugin command. 
+  Sell:
+    description: No Description. 

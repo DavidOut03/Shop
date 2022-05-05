@@ -1,0 +1,15 @@
+Settings:
+  shop-enabled: true
+  Prefix: '&8(&a&lShop&8)'
+
+GUI:
+  GUI_Categories:
+    rows: 6
+    gui-name: '&8Categories'
+  GUI_ItemShop:
+    rows: 6
+    gui-name: '&6Shop'
+  GUI_Editor:
+    gui-name: '&8Edit GUI: %gui%'
+  GUI_ChooseGUI:
+    gui-name: '&8Choose a gui'
